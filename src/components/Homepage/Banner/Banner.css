@@ -1,0 +1,26 @@
+.banner-img {
+    background-image: url(https://images.unsplash.com/photo-1503220317375-aaad61436b1b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHRyYXZlbHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80);
+    background-size: 100% 100%;
+    height: 550px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.banner-text {
+    text-align: center;
+}
+
+.banner-text h1 {
+    padding: 5px;
+    color: #201818;
+    margin-top: 10px;
+    font-size: 60px;
+    font-weight: 700;
+}
+.banner-text p {
+    background-color: #7c7a7a;
+    color: #0e0e13;
+    padding: 5px;
+    margin-top: 10px;
+    font-size: 18px;
+}
